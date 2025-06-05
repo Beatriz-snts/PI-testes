@@ -1,0 +1,49 @@
+
+header{
+    position: fixed;
+    display: flex;
+    background-color: #fa8b30;
+    width: 100%;
+    top: 0%;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    height: 10rem ;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+header nav a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    text-shadow: #612a0a;
+    top: 10px;
+    width: 100%;
+   
+}
+a:hover{
+   color: #2C4867;
+    border-radius: 30px;
+    background-color: #e97305;
+    cursor: url("cursor/click.svg"), auto;
+}
+ 
+.navbar-desktop{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10%;
+    margin-top: 50px
+}
+ 
+ 
+.logo {
+   width: 150px;
+ 
+}
+ 
+.redes {
+ width: 1.5rem;
+ margin-right: 10px;
+}

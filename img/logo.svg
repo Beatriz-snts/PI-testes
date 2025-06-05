@@ -13,24 +13,24 @@
       }
 
       .st0, .st2 {
-        fill: #dfbf00;
+        fill:#2C4867;
       }
 
       .st3 {
         fill: #ccc;
       }
 
-      .st3, .st2, .st4 {
+      .st3, .st2, .st4 { 
         fill-rule: evenodd;
       }
 
       .st1 {
-        fill: #4d4d4d;
+        fill: rgb(255, 255, 255);
         font-size: 207.98px;
       }
 
       .st4 {
-        fill: #f7f7f7;
+        fill:rgb(255, 255, 255);
       }
     </style>
   </defs>
