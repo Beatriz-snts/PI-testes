@@ -49,3 +49,6 @@ a:hover{
  width: 1.5rem;
  margin-right: 10px;
 }
+.ocultar{
+    display:none
+}
