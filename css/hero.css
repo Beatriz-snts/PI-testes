@@ -1,7 +1,6 @@
 .hero{
     position: relative;
-    text-align: center;
-    padding: 2rem;
+    padding: 30px;
     border-radius: 8px;
     margin-bottom: 2rem;
     margin: 8rem 1rem 1rem 1rem;
@@ -9,9 +8,10 @@
 }
 
 .hero-image{
-    width: 110%;
-    height: 300px;
-    z-index: 1;
+    width: 100%;
+    align-items: center;
     position: relative;
+    justify-content: space-between;
+
 }
 

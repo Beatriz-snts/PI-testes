@@ -1,6 +1,6 @@
 
 header{
-    position: fixed;
+    position: absolute;
     display: flex;
     background-color: #f8a320;
     width: 100%;
@@ -8,7 +8,8 @@ header{
     padding: 20px;
     justify-content: space-between;
     align-items: center;
-    height: 10rem ;
+    height: 6rem ;
+
 }
 ul{
     display: flex;
@@ -25,7 +26,7 @@ header nav a{
 }
 a:hover{
    color: #2C4867;
-    border-radius: 30px;
+    border-radius: 10px;
     background-color: #e08a09;
     cursor: url("cursor/click.svg"), auto;
 }
@@ -40,7 +41,8 @@ a:hover{
  
 .logo {
    width: 150px;
- 
+   justify-content: space-between;
+   height: 90px;
 }
  
 .redes {
